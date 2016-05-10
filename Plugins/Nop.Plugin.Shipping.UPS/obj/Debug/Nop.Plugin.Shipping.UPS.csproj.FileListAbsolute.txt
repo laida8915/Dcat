@@ -1,0 +1,10 @@
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\ShippingUPS\Configure.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb

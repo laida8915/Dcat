@@ -1,0 +1,10 @@
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\ProductAddPopup.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

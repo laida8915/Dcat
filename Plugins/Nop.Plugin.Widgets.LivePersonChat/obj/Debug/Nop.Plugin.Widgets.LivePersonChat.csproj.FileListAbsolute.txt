@@ -1,0 +1,22 @@
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Views\WidgetsLivePersonChat\Configure.cshtml
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Views\WidgetsLivePersonChat\PublicInfo.cshtml
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\web.config
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Description.txt
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\logo.jpg
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.dll.config
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.pdb
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.csprojResolveAssemblyReference.cache
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.pdb
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Views\WidgetsLivePersonChat\Configure.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Views\WidgetsLivePersonChat\PublicInfo.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\web.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Description.txt
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\logo.jpg
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.dll.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Widgets.LivePersonChat\Nop.Plugin.Widgets.LivePersonChat.pdb
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.csprojResolveAssemblyReference.cache
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Widgets.LivePersonChat\obj\Debug\Nop.Plugin.Widgets.LivePersonChat.pdb

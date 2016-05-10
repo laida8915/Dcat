@@ -1,0 +1,11 @@
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\Configure.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\PaymentInfo.cshtml
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\denny.wl.chang\Desktop\learn\nopCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb
